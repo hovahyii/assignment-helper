@@ -1,5 +1,5 @@
 <template>
-
+<body>
 
  <section class="u-align-left u-clearfix u-section-1" id="carousel_a896">
       <div class="u-clearfix u-sheet u-sheet-1">
@@ -47,7 +47,7 @@
         </div>
       </div>
     </section>
-
+</body>
 </template>
 
 <script>
