@@ -17,6 +17,8 @@ import Services from './components/Services.vue'
 import Price from './components/Price.vue'
 import JoinUs from './components/JoinUs.vue'
 
+
+
 export default {
   name: 'App',
   components: {
