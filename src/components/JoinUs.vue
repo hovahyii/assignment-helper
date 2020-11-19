@@ -18,8 +18,8 @@
                   <div class="u-container-style u-group u-palette-4-base u-group-1">
                     <div class="u-container-layout u-container-layout-3"></div>
                   </div>
-                  <img src="../assets/sitdown.jpg" alt="" class="u-image u-image-default u-image-1" data-image-width="700" data-image-height="708">
-                  <img src="../assets/groupstudy.jpg" alt="" class="u-image u-image-default u-image-2" data-image-width="992" data-image-height="992">
+                  <img src="https://raw.githubusercontent.com/hovahyii/assignment-helper/main/src/assets/sitdown.jpg" alt="" class="u-image u-image-default u-image-1" data-image-width="700" data-image-height="708">
+                  <img src="https://raw.githubusercontent.com/hovahyii/assignment-helper/main/src/assets/groupstudy.jpg" alt="" class="u-image u-image-default u-image-2" data-image-width="992" data-image-height="992">
                 </div>
               </div>
             </div>

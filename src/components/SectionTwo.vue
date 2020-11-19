@@ -5,7 +5,7 @@
       <div class="u-clearfix u-sheet u-sheet-1">
         <h1 class="u-custom-font u-text u-text-default u-text-1">Why Us</h1>
         <p class="u-text u-text-default u-text-2">We are a group of university students who understand your struggle (we've been there) and know how to solve your assignment problem.</p>
-        <img class="u-expand-resize u-expanded-width-md u-expanded-width-sm u-expanded-width-xs u-image u-image-1" src="../assets/struggle.jpg" data-image-width="1255" data-image-height="837">
+        <img class="u-expand-resize u-expanded-width-md u-expanded-width-sm u-expanded-width-xs u-image u-image-1" src="https://raw.githubusercontent.com/hovahyii/assignment-helper/main/src/assets/struggle.jpg" data-image-width="1255" data-image-height="837">
         <div class="u-expanded-width-md u-expanded-width-sm u-expanded-width-xs u-list u-repeater u-list-1">
           <div class="u-align-left u-container-style u-list-item u-palette-5-light-2 u-repeater-item u-list-item-1">
             <div class="u-container-layout u-similar-container u-container-layout-1">
