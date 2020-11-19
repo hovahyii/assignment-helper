@@ -240,7 +240,6 @@
     height: 223px;
     margin-top: -290px;
     margin-left: -2px;
-      background-image: url("https://hovahyii.github.io/assignment-helper/img/sitdown.58513df5.jpg");
 
   }
 
@@ -249,7 +248,6 @@
     height: 185px;
     margin-top: -50px;
     margin-bottom: 0;
-      background-image: url("https://hovahyii.github.io/assignment-helper/img/groupstudy.179e91ec.jpg");
 
   }
 }
