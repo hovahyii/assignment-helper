@@ -240,6 +240,8 @@
     height: 223px;
     margin-top: -290px;
     margin-left: -2px;
+      background-image: url("../assets/sitdown.jpg");
+
   }
 
   .u-section-5 .u-image-2 {
@@ -247,6 +249,8 @@
     height: 185px;
     margin-top: -50px;
     margin-bottom: 0;
+      background-image: url("../assets/groupstudy.jpg");
+
   }
 }
 
