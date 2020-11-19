@@ -18,8 +18,8 @@
                   <div class="u-container-style u-group u-palette-4-base u-group-1">
                     <div class="u-container-layout u-container-layout-3"></div>
                   </div>
-                  <img src="../assets/19451.jpg" alt="" class="u-image u-image-default u-image-1" data-image-width="700" data-image-height="708">
-                  <img src="../assets/GettyImages-teamproblemsolving-587a4a1b3df78c17b66ce0c3.jpg" alt="" class="u-image u-image-default u-image-2" data-image-width="992" data-image-height="992">
+                  <img src="../assets/sitdown.jpg" alt="" class="u-image u-image-default u-image-1" data-image-width="700" data-image-height="708">
+                  <img src="../assets/groupstudy.jpg" alt="" class="u-image u-image-default u-image-2" data-image-width="992" data-image-height="992">
                 </div>
               </div>
             </div>

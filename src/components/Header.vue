@@ -5,7 +5,7 @@
      <ul>
         <li><a href="#carousel_a896">Home</a></li>
         <li><a href="#carousel_b5ac">Why Us</a></li>
-        <li><a href="#carousel_4e3c">Order</a></li>
+        <li><a href="#carousel_4e3c">Our Services</a></li>
         <li><a href="#carousel_c8d1">Subscription</a></li>
         <li><a href="#carousel_d8dd">Join Us</a></li>
       </ul>

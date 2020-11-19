@@ -30,7 +30,7 @@
 </g></svg></span>
             <h3 class="u-text u-text-default u-text-2">One to One Coaching</h3>
             <p class="u-text u-text-default u-text-3">We can arrange an online meeting where you can meet with our mentor face to face to have a consultation and Q&amp;A session.&nbsp;</p>
-            <a href="https://nicepage.com" class="u-border-1 u-border-black u-btn u-button-style u-hover-black u-none u-text-black u-text-hover-white u-btn-1">contact us</a>
+            <a href="https://wa.me/601110501375" class="u-border-1 u-border-black u-btn u-button-style u-hover-black u-none u-text-black u-text-hover-white u-btn-1">contact us</a>
           </div>
         </div>
         <div class="u-expanded-width-md u-expanded-width-sm u-expanded-width-xs u-list u-repeater u-list-1">
